@@ -96,6 +96,7 @@
 
     [self handlePush:launchOptions];
 
+    NSLog(@"Test simple log");
     return YES;
 }
 

@@ -67,7 +67,7 @@
     //
     // Make sure to update your URL scheme to match this facebook id. It should be "fbFACEBOOK_APP_ID" where FACEBOOK_APP_ID is your Facebook app's id.
     // You may set one up at https://developers.facebook.com/apps
-    [PFFacebookUtils initializeWithApplicationId:@"847539321972050"];
+    [PFFacebookUtils initializeWithApplicationId:@"425821114258280"];
     // ****************************************************************************
     
     if (application.applicationIconBadgeNumber != 0) {
